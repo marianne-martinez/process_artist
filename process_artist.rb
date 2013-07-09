@@ -1,6 +1,6 @@
 
-
 require 'ruby-processing'
+# this is my first ruby processing project
 
 class ProcessArtist < Processing::App
 	def setup
